@@ -1,4 +1,4 @@
-# AIC Project
+# Image Classification Project
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Python 3.10](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
@@ -108,6 +108,7 @@ python data_splite.py \
 2. Place the weights file as `weight/backbone-l.pth` (large version)
 3. Generate pre-trained weights:
 <img src="images/2.png" width="100%" alt="Pretrained Weights Preparation" />
+
 ```bash
 cd code
 python get_weight.py
