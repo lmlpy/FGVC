@@ -4,7 +4,7 @@
 [![Python 3.10](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
 [![PyTorch 2.8](https://img.shields.io/badge/PyTorch-2.8.0+-red.svg)](https://pytorch.org/)
 
-Official implementation of the AIC project for fine-grained image classification.
+Official implementation of the project for fine-grained image classification.
 
 ## 🎯 Method Overview
 
