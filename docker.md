@@ -55,26 +55,26 @@ bash all.sh
 
 ### 一级目录
 ```bash
-AIC-2025-29391139-代码模型-网络监督细粒度图像识别
+代码模型-网络监督细粒度图像识别
 ├── best_model_web400.pth
 ├── best_model_web5000.pth
 ├── docker.md
 ├── docker.tar
 │
-├── AIC-2025-29391139-源代码
-└── AIC-2025-29391139-预测结果
+├── 源代码
+└── 预测结果
 ```
 
 ### 详细目录
 ```bash
-AIC-2025-29391139-代码模型-网络监督细粒度图像识别
-|   AIC-2025-29391139-技术方案.pdf
+代码模型-网络监督细粒度图像识别
+|   技术方案.pdf
 |   best_model_web400.pth
 |   best_model_web5000.pth
 |   docker.md
-|   docker.tar.baiduyun.p.downloading
+|   docker.tar
 |
-+---AIC-2025-29391139-源代码
++---源代码
 |   |   all.sh
 |   |   data_cleaner.py
 |   |   data_splite.py
@@ -111,7 +111,7 @@ AIC-2025-29391139-代码模型-网络监督细粒度图像识别
 |   |           pred_results_web5000.csv
 |   |
 |   \---weight
-\---AIC-2025-29391139-预测结果
+\---预测结果
         pred_results_web400.csv
         pred_results_web5000.cs
 ```
